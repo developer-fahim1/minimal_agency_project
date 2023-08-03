@@ -1,0 +1,154 @@
+body {
+    font-size: 18px;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
+/* Navbar Start */
+
+
+.navigation {
+    background-color: #F6F8FB;
+}
+
+
+.c_nav_button {
+    background-color: #F9FBFD !important;
+    color: #8D448B;
+    border: 1px solid #8D448B;
+    padding: 5px 22px;
+    border-radius: 5px;
+
+}
+
+.c_nav_button:hover {
+    background-color: #8D448B !important;
+    color: #F9FBFD;
+
+}
+
+/* Navbar End */
+/* hero aria Start */
+.hero_aria {
+    background-color: #F6F8FB;
+}
+
+.hero_content {
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+.hero_form {}
+
+.c_hero_button {
+    background-color: #8D448B !important;
+    color: #F9FBFD;
+
+    padding: 5px 22px;
+    border-radius: 5px;
+}
+
+.c_hero_button:hover {
+    background-color: #F9FBFD !important;
+    color: #8D448B;
+    border: 1px solid #8D448B;
+}
+
+/* hero aria End */
+/* feture section Start */
+
+
+.c_label {
+    color: #8D448B !important;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+
+.c_title {
+    color: black !important;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 25px;
+
+}
+
+.c_card {
+    border: none;
+    text-align: center;
+    margin: 15px 0px;
+}
+
+.c_feture_img {
+    max-width: 110px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.c_feture_text {}
+
+/* feture section End */
+/* chosing_developers start */
+.why_chosing_developers {}
+
+.chosing_developers_img {}
+
+.chosing_developers_content {}
+
+.chosing_developers_title {
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 60px;
+
+}
+
+.chosing_developers_text {}
+
+.c_btn a {
+    text-decoration: none;
+    color: #8D448B;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+/* chosing_developers End */
+
+/* leading companies start */
+.leading_companies_trust_title {
+    font-size: 38px;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+/* leading companies end */
+
+/* customer comments start */
+.customer_comments_text {
+    font-size: 36px;
+    font-family: 'Playfair Display', serif;
+    font-weight: regular;
+
+
+}
+
+/* customer comments end */
+
+/* quality features start */
+.quality_features {
+
+    background-color: #F8FAFC;
+}
+
+/* quality features end */
+
+/* footer start */
+.c_footer_link a {
+    text-decoration: none;
+    color: black;
+
+}
+
+/* footer end */
